@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>Day Care</masterLabel>
+        <translation>מעונות יום</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Emergency personnel</masterLabel>
+        <translation>כוח אדם לשעת חירום</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Employment of special populations</masterLabel>
+        <translation>תעסוקת אוכלוסיות מיוחדות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Industrial relations</masterLabel>
+        <translation>יחסי עבודה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Licensing electricians</masterLabel>
+        <translation>רישוי חשמלאים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Occupational Safety and Health</masterLabel>
+        <translation>בטיחות ובריאות תעסוקתית</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Professional development</masterLabel>
+        <translation>הכשרה מקצועית</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Registration and licensing of engineers and architects</masterLabel>
+        <translation>רישום ורישוי מהנדסים ואדריכלים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Registration of Engineers and Technicians</masterLabel>
+        <translation>רישום הנדסאים וטכנאים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Regulating and enforcing work topics</masterLabel>
+        <translation>הסדרה ואכיפה של נושאי עבודה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Regulation of Occupation</masterLabel>
+        <translation>אסדרת עיסוקים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Rights of foreign workers at work</masterLabel>
+        <translation>זכויות עובדים זרים בעבודה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Technological training</masterLabel>
+        <translation>הכשרה טכנולוגית (מה&quot;ט)</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

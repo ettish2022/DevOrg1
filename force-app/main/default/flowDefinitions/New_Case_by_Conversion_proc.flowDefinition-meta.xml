@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <activeVersionNumber>2</activeVersionNumber>
+    <description>By IanS 28/12/2020 Ver 1.06
+The new Case by Lead Conversion process</description>
+    <masterLabel>New Case by Conversion proc</masterLabel>
+</FlowDefinition>

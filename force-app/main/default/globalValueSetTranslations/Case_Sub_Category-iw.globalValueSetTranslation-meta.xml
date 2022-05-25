@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>45+</masterLabel>
+        <translation>45+</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Add a section of the engineering system</masterLabel>
+        <translation>הוספת מדור במערכת ההנדסאים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Alergic child</masterLabel>
+        <translation>ילד עם אלרגיה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Appointment of foremen at construction sites</masterLabel>
+        <translation>מינוי מנהלי עבודה באתרי בנייה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Assigning and placement</masterLabel>
+        <translation>שיבוצים והשמות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Attendance Calendar</masterLabel>
+        <translation>יומן נוכחות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Call Center Activity</masterLabel>
+        <translation>פעילות המוקד הטלפוני</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Cameras and Security</masterLabel>
+        <translation>מצלמות ובטיחות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Charedim</masterLabel>
+        <translation>חרדים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Completing studies</masterLabel>
+        <translation>השלמת לימודים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Conduct of a center or complaint about DayCare center</masterLabel>
+        <translation>התנהלות מסגרת או תלונה על מעון</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Conduct of colleges</masterLabel>
+        <translation>התנהלות מכללות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Costs and Levels</masterLabel>
+        <translation>עלויות ודרגות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Day Care centers construction</masterLabel>
+        <translation>בינוי מעונות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Detention of emergency personnel</masterLabel>
+        <translation>ריתוק כוח אדם לשעת חירום</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Diploma and entitlement</masterLabel>
+        <translation>תעודות וזכאות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Diplomas</masterLabel>
+        <translation>תעודות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Document Completion Status</masterLabel>
+        <translation>סטטוס השלמת מסמכים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Double payment of a fee or request to cancel an increased fee</masterLabel>
+        <translation>תשלום כפול של אגרה או בקשה לביטול אגרה מוגדלת</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Elevator and escalator malfunctions</masterLabel>
+        <translation>תקלות מעליות ודרגנועים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Employee Rights (General)</masterLabel>
+        <translation>זכויות עובד (כללי)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Employee inquiries</masterLabel>
+        <translation>פניות עובדים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Employer inquiries</masterLabel>
+        <translation>פניות מעסיקים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Enforcing safety regulations</masterLabel>
+        <translation>אכיפת תקנות בטיחות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Essential factories</masterLabel>
+        <translation>מפעלים חיוניים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Ethiopians</masterLabel>
+        <translation>יוצאי אתיופיה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Final Project</masterLabel>
+        <translation>פרויקט גמר</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Finance and tuition</masterLabel>
+        <translation>כספים ושכר לימוד</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>General Information</masterLabel>
+        <translation>מידע כללי</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>General rights</masterLabel>
+        <translation>זכויות כלליות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>General rights in small businesses</masterLabel>
+        <translation>זכויות כלליות בעסקים קטנים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Hi-tech personnel</masterLabel>
+        <translation>כוח אדם להייטק</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Human resources contractors</masterLabel>
+        <translation>קבלני כוח אדם</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Labor Law Enforcement (General)</masterLabel>
+        <translation>אכיפת דיני עבודה (כללי)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Labor agreements and collective contracts</masterLabel>
+        <translation>הסכמי עבודה וחוזים קיבוציים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Labor dispute</masterLabel>
+        <translation>סכסוכי עבודה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>License threshold conditions</masterLabel>
+        <translation>תנאי סף לקבלת רישיון</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Licensed Permits Request</masterLabel>
+        <translation>בקשה למורשה היתרים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Licensing of safety officials</masterLabel>
+        <translation>רישוי בעלי תפקידים בתחום הבטיחות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Minority group</masterLabel>
+        <translation>מיעוטים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Objection for levels or assignments</masterLabel>
+        <translation>ערר דרגות או השמות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Objections</masterLabel>
+        <translation>ערעורים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Occupational diseases</masterLabel>
+        <translation>מחלות תעסוקתיות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Other</masterLabel>
+        <translation>אחר</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Pay reviewers</masterLabel>
+        <translation>בודקי שכר</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>People with disabilities</masterLabel>
+        <translation>אנשים עם מוגבלויות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Personal vouchers</masterLabel>
+        <translation>שוברים אישיים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Preliminary approval for activating a center</masterLabel>
+        <translation>אישור ראשוני להפעלת מסגרת</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Professional developments  (Information on courses funded and fully or partially supervised by the Division)</masterLabel>
+        <translation>הכשרות מקצועיות (מידע על קורסים במימון ופיקוח מלא או חלקי של האגף)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Professional schools</masterLabel>
+        <translation>בתי ספר מקצועיים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Receiving a certificate or license</masterLabel>
+        <translation>קבלת תעודה או רישיון</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Receiving recognition for a course</masterLabel>
+        <translation>קבלת הכרה על קורס</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Registration certificate</masterLabel>
+        <translation>תעודת רישום</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Registration in the Electricians Register</masterLabel>
+        <translation>רישום בפנקס החשמלאים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Registration in the Register of Certified Engineers and Technicians</masterLabel>
+        <translation>רישום בפנקס ההנדסאים והטכנאים המוסמכים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Reporting hazards on construction sites</masterLabel>
+        <translation>דיווח מפגעים באתרי בנייה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Request Status</masterLabel>
+        <translation>סטטוס בקשה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Safety training</masterLabel>
+        <translation>הכשרות בתחום הבטיחות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Services (cleaning or security)</masterLabel>
+        <translation>שירותים (ניקיון או אבטחה)</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Single parents</masterLabel>
+        <translation>הורים יחידנים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Specialties and exams</masterLabel>
+        <translation>התמחויות ובחינות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Subscription History</masterLabel>
+        <translation>היסטוריית מינויים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Technical glitch</masterLabel>
+        <translation>תקלה טכנית</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Technical glitch in online registry</masterLabel>
+        <translation>תקלה טכנית ברישום מקוון</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Tests (/Practical tests)</masterLabel>
+        <translation>בחינות</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Threshold conditions and admissions for studies</masterLabel>
+        <translation>תנאי סף וקבלה ללימודים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Threshold conditions for obtaining a license</masterLabel>
+        <translation>תנאי סף לקבלת רישיון</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Tuition and grants</masterLabel>
+        <translation>שכר לימוד ומענקים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Women&apos;s Employment Law</masterLabel>
+        <translation>חוק עבודת נשים</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Work accidents</masterLabel>
+        <translation>תאונות עבודה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Workers in the center</masterLabel>
+        <translation>עובדים במסגרת</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Working and resting hours law</masterLabel>
+        <translation>חוק שעות עבודה ומנוחה</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Young people at risk</masterLabel>
+        <translation>צעירים בסיכון</translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>Youth work</masterLabel>
+        <translation>עבודות נוער</translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

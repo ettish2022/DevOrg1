@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Request</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Requests</value>
+    </caseValues>
+    <layouts>
+        <layout>Call Center Request</layout>
+        <sections>
+            <label></label>
+            <section>Added Details</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>General Request&apos;s Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Child_Request</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>המלצות</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>כישורים נדרשים</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטי בקשה</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטי הכשרה</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטי המעסיק</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטים כללים</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>שאלון למעסיק- איתור וגיוס עובדים</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Parent Request Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטי המעסיק</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטים כללים</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Regulation of Occupation</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>More Detail</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Request Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Request Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>המלצות</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>כישורים נדרשים</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטי בקשה</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטי המעסיק</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>פרטים כללים</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>שאלון למעסיק</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel></nameFieldLabel>
+    <quickActions>
+        <label></label>
+        <name>Callc</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Create_Recommendation</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>EmailFromRequest</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>Transfer_Case</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>X1111</name>
+    </quickActions>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>CCOperational</name>
+    </recordTypes>
+    <recordTypes>
+        <label></label>
+        <name>Child_Request</name>
+    </recordTypes>
+    <recordTypes>
+        <label></label>
+        <name>Parent_Request</name>
+    </recordTypes>
+    <recordTypes>
+        <description></description>
+        <label></label>
+        <name>RegulationOfOccupation</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>BlockDuplicate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>BusinessID_Not_Null</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Correct_Duplicate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Hiring_Reason_Not_Null</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>NoDuplicate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>No_Program_Closing_Reason</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>No_Recommendation_reason</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>Request_Purpose_Not_Null</name>
+    </validationRules>
+</CustomObjectTranslation>

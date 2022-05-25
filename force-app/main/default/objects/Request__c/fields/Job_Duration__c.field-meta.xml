@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Job_Duration__c</fullName>
+    <externalId>false</externalId>
+    <label>Job Duration</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>חצי שנה</fullName>
+                <default>false</default>
+                <label>חצי שנה</label>
+            </value>
+            <value>
+                <fullName>שנה</fullName>
+                <default>false</default>
+                <label>שנה</label>
+            </value>
+            <value>
+                <fullName>שנתיים ומעלה</fullName>
+                <default>false</default>
+                <label>שנתיים ומעלה</label>
+            </value>
+            <value>
+                <fullName>אחר</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>אחר</label>
+            </value>
+            <value>
+                <fullName>חמש שנים</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>חמש שנים</label>
+            </value>
+            <value>
+                <fullName>שלוש שנים</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>שלוש שנים</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
